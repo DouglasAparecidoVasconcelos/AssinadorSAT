@@ -1,0 +1,10 @@
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.csprojAssemblyReference.cache
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.Form1.resources
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.Properties.Resources.resources
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.csproj.GenerateResource.cache
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.csproj.CoreCompileInputs.cache
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\bin\Debug\AssinadorSatA1Doug.exe.config
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\bin\Debug\AssinadorSatA1Doug.exe
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\bin\Debug\AssinadorSatA1Doug.pdb
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.exe
+C:\Users\DouglasInfoluck\source\repos\AssinadorSatA1Doug\AssinadorSatA1Doug\obj\Debug\AssinadorSatA1Doug.pdb
